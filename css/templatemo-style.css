@@ -6,6 +6,11 @@ https://templatemo.com/tm-556-catalog-z
 
 */
 
+[data-src] {
+    min-width: 50px;
+    min-height: 50px;
+}
+
 #loader-wrapper {
     position: fixed;
     top: 0;
